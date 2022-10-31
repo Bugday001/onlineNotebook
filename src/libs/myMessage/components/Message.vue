@@ -127,7 +127,7 @@ export default defineComponent({
             box-shadow:5px 5px 10px gray;
             .content {
                 font-size: 20px;
-                line-height: 20px;
+                line-height: 10px;
                 flex: 1;
             }
             .close {
